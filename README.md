@@ -2,7 +2,7 @@
 
 ### Software Developer | Python Developer | Building Real-World Applications
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishwasKumarJaiswal189" alt="VishwasKumarJaiswal189" /></a> </p>
+
 
 - 🔭 I'm currently working on **ClutterSweep :  A Cleaner Application for windows to safely delete files with instant previews and persistent tracking of already visited files per directory**
 
