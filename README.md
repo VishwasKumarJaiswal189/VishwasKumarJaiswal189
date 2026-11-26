@@ -58,7 +58,7 @@ if __name__ == "__main__":
 
 | Project | Description |
 | :--- | :--- |
-| **[ClutterSweep]([https://github.com/VishwasKumarJaiswal189](https://github.com/VishwasKumarJaiswal189/ClutterSweep))** | Native Windows file manager with intelligent triage, instant previews, and safe cleanup. |
+| **[ClutterSweep]([https://github.com/VishwasKumarJaiswal189/ClutterSweep])** | Native Windows file manager with intelligent triage, instant previews, and safe cleanup. |
 | **[ATS Resume Utility](https://resume-maker-ats.onrender.com)** | AI-powered ATS analysis, keyword matching & tailored PDF/LaTeX resume generation. |
 | **[Semantic Cache Gateway](https://github.com/VishwasKumarJaiswal189)** | Semantic caching layer for LLM requests using vector search + Redis. |
 | **[LLM Conversational Assistant](https://github.com/VishwasKumarJaiswal189)** | Conversational AI with persistent memory and structured output extraction. |
