@@ -1,31 +1,74 @@
-# Hi 👋, I'm VishwasKumarJaiswal189
+👋 Hey, I'm Vishwas Kumar Jaiswal
+> AI & Backend Developer | Python | Building Things That Solve Problems
+python
+class Vishwas:
+    role = "Software Developer"
+    focus = ["Backend Engineering", "AI & LLMs", "Python"]
+    currently_building = "ClutterSweep"
+    currently_learning = ["System Design", "AI Engineering"]
+    fun_fact = "Conversationally funny. Probably."
 
-### Software Developer | Python Developer | Building Real-World Applications
+🖥️ ~/about
+🔭 Building ClutterSweep — A Windows utility for intelligent file management and safe disk cleanup.
+🌱 Exploring AI Engineering, LLM applications, System Design & scalable backend architecture.
+👯 Open to collaborating on Open Source, AI-powered tools & Python projects.
+🤝 Always interested in learning about system architecture, optimization & better engineering practices.
+💬 Talk to me about Python, FastAPI, React, REST APIs, LangChain & Redis.
+📫 Reach me at Email
+📄 Resume
+🚀 ~/projects
+📁 Project	⚡ What it does
+ATS Resume Utility	AI-powered ATS analysis, keyword matching & tailored PDF/LaTeX resume generation.
+ClutterSweep	Native Windows file triage, instant previews & safe disk cleanup.
+Semantic Cache Gateway	Semantic caching for LLM requests using vector search & Redis.
+LLM Conversational Assistant	Conversational AI with persistent memory & structured output extraction.
+🛠️ ~/tech-stack
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VishwasKumarJaiswal189" alt="VishwasKumarJaiswal189" /></a> </p>
+Languages & Core
 
-- 🔭 I'm currently working on **ClutterSweep :  A Cleaner Application for windows to safely delete files with instant previews and persistent tracking of already visited files per directory**
-
-- 🌱 I'm currently learning **System Design, AI Engineering, LLM applications, backend architecture, and scalable software development.**
-
-- 👯 I'm looking to collaborate on **Open-source projects, AI/LLM applications, Python-based tools, backend systems, and projects that solve real-world problems.**
-
-- 🤝 I'm looking for help with **System Design, scalable backend architecture, performance optimization, and software engineering best practices.**
-
-- 💬 Ask me about **Python, FastAPI, React, REST APIs, LLM integration, LangChain, Redis, and building AI-powered applications.**
-
-- 📫 How to reach me **vishwaskumarjaiswal@outlook.com**
-
-- ⚡ Fun fact **Conversationally funny.**
-
-- 📄 Know about my experiences **[https://drive.google.com/file/d/1zxlB5p98jv0zF4l80z4aVS3DCGHJSoCX/view?usp=sharing](https://drive.google.com/file/d/1zxlB5p98jv0zF4l80z4aVS3DCGHJSoCX/view?usp=sharing)**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://github.com/VishwasKumarJaiswal189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="VishwasKumarJaiswal189" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vishwaskumarjaiswal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vishwaskumarjaiswal/" height="30" width="40" /></a>
+<img src="https://skillicons.dev/icons?i=python,js,html,css,bash,c" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/chartjs" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/chartdotjs/FF6384" alt="chartjs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/django" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=django" alt="django" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/fastapi" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=fastapi" alt="fastapi" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jenkins" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=jenkins" alt="jenkins" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/langchain" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/numpy" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/pandas" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redis" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redis" alt="redis" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/scikit_learn" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=scikitlearn" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/seaborn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sqlite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sqlite" alt="sqlite" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuepress" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="vuepress" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/zapier" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/zapier/FF4A00" alt="zapier" width="40" height="40"/> </a></p>
+Backend, AI & Frameworks
 
+<p align="left">
+<img src="https://skillicons.dev/icons?i=fastapi,react,nodejs,django,flask,langchain" />
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-6B4EFF?style=for-the-badge&logoColor=white" />
+</p>
+
+Databases & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=sqlite,redis,mongodb,mysql,postgres,firebase,docker,aws" />
+</p>
+
+Tools & Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,anaconda,jupyter,postman,tailwind,jenkins" />
+</p>
+
+Data & Other Technologies
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=numpy,pandas,sklearn,tensorflow,matlab,chartjs" />
+</p>
+
+🌐 ~/connect
+
+<p align="left">
+<a href="https://github.com/VishwasKumarJaiswal189">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/vishwaskumarjaiswal/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:vishwaskumarjaiswal@outlook.com">
+<img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+</p>
+
+bash
+$ echo "Thanks for stopping by! Happy Coding 🚀"
